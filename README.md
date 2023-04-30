@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasantenli
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and node.js
-- 💞️ I’m looking to collaborate on web pages and factroies who can ability on industry 4.0 
+- 💞️ I’m looking to collaborate on web pages and factories who can ability on industry 4.0 
 - 📫 How to reach me, you can contact on linkedın, instagram dm's, twitter dm's and my gmail adress.
 
 <!---
